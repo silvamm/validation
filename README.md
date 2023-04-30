@@ -2,9 +2,9 @@
 
 
 
-* Validação de requisições em REST API
+* Validação de requisições para uma REST API
 * Criação de validações customizadas
-* Criação tratamento de exceções global
+* Criação de tratamento de exceções global
 * Adição de mensagens customizadas
 * Validação de objetos complexos
 * Disparo manual de validações 
